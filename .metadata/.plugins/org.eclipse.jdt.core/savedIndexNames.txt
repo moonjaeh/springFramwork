@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jdt.core
+230945297.index
+327766941.index
+2024521735.index
+2924058629.index
+1843741187.index
+686412880.index
+2930306640.index
+2479366233.index
+2112486712.index
+1802127092.index
+1865797976.index

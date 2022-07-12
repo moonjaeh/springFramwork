@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1145030158.index
+\_02_BoardWeb_structure\src\main\java
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1430834364.index
+\FirstSpringframework\src\main\java
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2267906527.index
+\_02_BoardWeb_structure\src\main\java
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2369189963.index
+\_02_BoardWeb_structure\src\main\java
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2365668971.index
+\_02_BoardWeb_structure\src\main\java
+C:\Users\ddbb0\Desktop\Bitcamp\spring boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3254442011.index
+\_01_BoardWeb_properties\src\main\java
